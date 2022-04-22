@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnricoBreg
-- 👀 I’m interested in Computer science, programming, algorithms
+- 👀 I’m interested in Computer science, programming, algorithms and all that concerns computer science in general :)
 - 🌱 I’m currently learning Frontend and Backend
 - 💞️ I’m looking to working important projects in future
 - 📫 My LinkedIn: https://www.linkedin.com/in/enrico-bregoli/
